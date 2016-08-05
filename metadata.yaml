@@ -1,0 +1,28 @@
+_repo: Alessandro-Manzoni-Studio-Biografico--13-Letture-fatte-alla-Taylorian-Institution-di-Oxford-ne__7817
+_version: 0.0.1
+creator:
+  author:
+    agent_name: De Gubernatis, Angelo
+    alias: Gubernatis, Angelo de, conte
+    birthdate: 1840
+    deathdate: 1913
+    gutenberg_agent_id: '2541'
+    url: http://www.gutenberg.org/2009/agents/2541
+    wikipedia: http://it.wikipedia.org/wiki/Angelo_De_Gubernatis
+description: ''
+gutenberg_bookshelf: IT Biografie
+gutenberg_issued: '2005-04-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '7817'
+language: it
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PQ'
+- !lcsh 'Manzoni, Alessandro, 1785-1873'
+- GITenberg
+title: "Alessandro Manzoni, Studio Biografico\r\nLetture fatte alla Taylorian Institution\
+  \ di Oxford nel maggio dell'anno 1878, notevolmente ampliate"
+url: http://www.gutenberg.org/ebooks/7817
